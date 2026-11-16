@@ -23,7 +23,7 @@ jobs:
           context: ./
           push: true
           file: ./Dockerfile
-          tags: Samuel-Davi/webacademy:latest
+          tags: samlima010/webacademy:latest
   deploy:
     runs-on: ubuntu-latest
     steps:
